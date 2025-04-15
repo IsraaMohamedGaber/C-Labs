@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730371651 source:c:\users\hp\desktop\iti\try lab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
