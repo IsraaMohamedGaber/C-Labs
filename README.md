@@ -25,6 +25,6 @@ task2 make struct of student name,gender, subject
 one without array
 and anther one ask user number of student (with array)
 
-##lab7
+## lab7
 task1 open text file write on file, close file and print result on screen 
 task2 open text Binary file write on file, close file and print result on screen
